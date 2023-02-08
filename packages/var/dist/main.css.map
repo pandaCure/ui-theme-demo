@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","mappings":";;;AAAC;ECKG;AAHJ","sources":["webpack://var/./style/index.less","webpack://var/./style/a.less"],"sourcesContent":["@prefix: avalon;","@import url(./index.less);\n\n@empty-prefix-cls: ~'@{prefix}-empty';\n\n.@{empty-prefix-cls} {\n    width: 100%;\n}\n@prefix: ve-o;"],"names":[],"sourceRoot":""}
